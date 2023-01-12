@@ -1,1 +1,1 @@
-### personal site  using html5
+### personal site developed using html5
